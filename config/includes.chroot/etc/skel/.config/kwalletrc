@@ -1,0 +1,4 @@
+[Wallet]
+First Use=false
+Use One Wallet=true
+Wallet=kwalletd

@@ -1,0 +1,87 @@
+# Core KDE Plasma Wayland session
+plasma-desktop
+sddm
+sddm-theme-breeze
+
+# KDE Frameworks and settings
+plasma-discover
+plasma-discover-backend-flatpak
+flatpak
+systemsettings
+plasma-nm
+plasma-pa
+plasma-thunderbolt
+plasma-browser-integration
+plasma-welcome
+plasma-widgets-addons
+plasma-firewall
+qt6-wayland
+xdg-desktop-portal-kde
+kde-config-sddm
+kde-config-screenlocker
+gnupg
+
+# KDE basic apps
+dolphin
+kio-extras
+kio-admin
+kaccounts-providers
+kwrite
+konsole
+gwenview
+okular
+elisa
+haruna
+kamoso
+print-manager
+kde-spectacle
+plasma-systemmonitor
+
+# KDE PIM (Personal Information Manager)
+thunderbird
+
+# KDE utilities
+ark
+filelight
+kdf
+kcalc
+kdeconnect
+partitionmanager
+
+# Internet & productivity
+firefox-esr
+libreoffice
+libreoffice-kf6
+libreoffice-qt6
+keepassxc
+
+# Audio & system
+pipewire
+pipewire-audio
+pavucontrol
+
+# System, firmware, drivers
+sudo
+firmware-linux
+firmware-linux-nonfree
+firmware-misc-nonfree
+firmware-iwlwifi
+firmware-realtek
+firmware-amd-graphics
+firmware-intel-sound
+
+# Optional: live system extras
+live-tools
+live-boot
+live-config
+
+plymouth
+plymouth-themes
+plymouth-theme-breeze
+powerdevil
+bluez
+bluedevil
+
+calamares
+kmag
+kmousetool
